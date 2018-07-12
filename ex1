@@ -1,0 +1,9 @@
+#!/bin/bash
+clear
+echo "Por favor introduce tu nombre"
+read name
+echo "Ahora tu edad"
+read age
+echo "Ahora tu sexo ;)"
+read sex
+echo "Entonces eres de sexo $sex de $age años llamado $name"
